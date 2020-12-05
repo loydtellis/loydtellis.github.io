@@ -369,7 +369,7 @@ section .title::after {
   background-color: var(--Navy-Blue);
 }
 .programs .title::after {
-  content: "who with me";
+  content: "what I have been doing";
 }
 .programs-content {
   width: 95%;
