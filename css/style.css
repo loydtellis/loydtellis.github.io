@@ -89,10 +89,11 @@ section .title::before {
 }
 section .title::after {
   position: absolute;
-  bottom: -8px;
+  bottom: -11px;
   left: 50%;
   background-color: var(--Navy-Blue);
-  font-size: 20px;
+  font-size: 18px;
+  font-family: "Poppins", sans-serif;
   color: var(--Lightest-BlueGreen);
   padding: 0 5px;
   background: var(--Navy-Blue);
